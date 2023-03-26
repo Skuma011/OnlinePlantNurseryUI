@@ -1,0 +1,14 @@
+html, body, #root, .App {
+    height: 100%;
+  }
+
+body{
+    background-image: url("./images/projectbg.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+
+table{
+  background:white;
+}
